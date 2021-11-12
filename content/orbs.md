@@ -22,7 +22,7 @@ You can search by name, category, or type to find a solution.
 
 With the popular Slack certified orb, it's easy to create custom notifications for any job. You can set parameters, including the message text, users to @ mention, and even the color of the message box. Prefer Jira? The Jira orb automatically reports the status of builds and deployments to your Jira Cloud instance.
 	
-Import the AWS S3, Azure, or Google Cloud orbs to configure an upload without installing the CLI or creating a config file. Using Heroku? Install the Heroku orb to quickly build, test, and deploy your applications with a few lines of code. As orbs are completely customizable and parameterized, you can reduce build time without comprising on your specific requirements.
+Import the AWS S3, Azure, or Google Cloud orbs to configure an upload without installing the CLI or creating a config file. Using Heroku? Get the Heroku orb to quickly build, test, and deploy your applications with a few lines of code. As orbs are completely customizable and parameterized, you can reduce build time without comprising on your specific requirements.
 
 ## How can you create your own orbs?
 
