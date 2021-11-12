@@ -14,7 +14,9 @@ There are three types of orb in the Registry:
 
 - **Certified orbs:** written, maintained, and tested by the CircleCI team.
 - **Partner orbs:** created by technology partners.
-- **Community orbs:** contributed by community members. You can search by name, category, or type to find a solution.
+- **Community orbs:** contributed by community members. 
+
+You can search by name, category, or type to find a solution.
 
 ## What can you do with orbs?
 
